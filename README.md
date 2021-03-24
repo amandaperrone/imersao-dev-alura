@@ -20,3 +20,10 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 
 * if()
 * document.write()
+
+#### Aula 03 - Mentalista
+
+* console.log()
+* while()
+* break
+* Math.random()
