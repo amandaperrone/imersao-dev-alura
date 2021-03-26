@@ -27,3 +27,10 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 * while()
 * break
 * Math.random()
+
+#### Aula 04 - Aluraflix e Arrays
+
+* arrays
+* push()
+* lenght()
+* for()
