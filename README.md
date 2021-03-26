@@ -34,3 +34,10 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 * push()
 * lenght()
 * for()
+
+#### Aula 05 - Aluraflix, Interações e Funções
+
+* function()
+* endsWith()
+* querySelector()
+* innerHTML()
