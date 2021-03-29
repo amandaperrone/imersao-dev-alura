@@ -41,3 +41,8 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 * endsWith()
 * querySelector()
 * innerHTML()
+
+#### Aula 06 - Tabela de Classificação
+
+* objetos
+* getElementById()
