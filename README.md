@@ -46,3 +46,9 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 
 * objetos
 * getElementById()
+
+#### Aula 07 - Super Trunfo (Lógica)
+
+* onClick()
+* checked
+* disable
