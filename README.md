@@ -60,3 +60,7 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 #### Aula 09 - Super Trunfo (Lógica de Rodadas)
 
 * splice()
+
+#### Aula 10 - Certificado
+
+* HTML e CSS

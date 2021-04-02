@@ -1,0 +1,122 @@
+root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #8A05BE;
+    font-family: 'Roboto', sans-serif;
+}
+
+.certificate {
+    margin-top: 100px;
+    background-color: white;
+    padding: 15px;
+
+    max-width: 800px;
+
+    /* Centraliza o elemento */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 5px;
+
+    box-shadow: 5px 5px 80px 8px rgba(0, 0, 0, 0.59);
+}
+
+
+.certificate h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.content {
+    margin: 15px;
+    background-color: #F7F6F3;
+
+    border-radius: 5px;
+    padding: 25px;
+}
+
+header {
+    background-image: url('https://preview.redd.it/sycy3es14pn31.jpg?width=960&crop=smart&auto=webp&s=3bd1f562e7db249fee724ac37baf50705ece4e86');
+    background-size: cover;
+    height: 80px;
+}
+
+img {
+    border-radius: 100%;
+    border: 10px solid white;
+
+    width: 150px;
+    height: 150px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    transform: translateY(-50%);
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    line-height: 30px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    border-radius: 18px;
+
+    display: block;
+}
+
+a:hover {
+    background-color: #8A05BE;
+    color: white;
+    
+}
+
+/* github corner */
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+  }
+  
+  .github-corner svg {
+    fill: rgb(0, 0, 0);
+    color: #fff;
+  }
+  
+  .github-corner:hover svg {
+    fill: #cfcfcf;
+  }
+  
+  @keyframes octocat-wave {
+    0%, 100% {
+      transform: rotate(0deg)
+    }
+    20%, 60% {
+      transform: rotate(-25deg)
+    }
+    40%, 80% {
+      transform: rotate(10deg)
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .github-corner:hover .octo-arm {
+      animation: none
+    }
+  
+    .github-corner .octo-arm {
+      animation: octocat-wave 560ms ease-in-out
+    }
+  }
