@@ -52,3 +52,7 @@ Códigos desenvolvidos durante a Imersão Dev, entre 22-03-2021 e 02-04-2021
 * onClick()
 * checked
 * disable
+
+#### Aula 08 - Super Trunfo (Imagens, HTML e CSS)
+
+* ${}
